@@ -15,6 +15,6 @@ With the rapid grow of virtual reality technology, especially its application in
 |OV7725 Image Sensor	|1	          |	image sensor for image sampling|
 |APDS-9960	      |1	          |Proximity, Light, RGB, and Gesture Sensor|
 |2.8" TFT Touch Shield 	    |1	          |	capacitive touch screen|
-|DuPont line	    |some	        |jumper wire|
+|DuPont line	    |> 10	        |jumper wire|
 |Breadboard     	|1	          |platform for circuit construction|
 |STEMMA QT	      |1	          |Connection of peripheral dvice with GPIO of RP2040|
